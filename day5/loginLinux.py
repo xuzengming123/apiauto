@@ -29,3 +29,6 @@ sftp.put("远程机器文件路径","本地文件路径")
 
 sftp.close()
 ssh.close()
+
+
+#hahahahahha
